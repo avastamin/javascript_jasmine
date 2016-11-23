@@ -1,5 +1,5 @@
-# javascript BDD using Jasmine
-This is a sample javascript project to make Behavior driven development(BDD) more easy and run test on file save. Here I uses [Jasmine][1] 
+# Javascript Behavior driven development(BDD) using Jasmine
+This is a sample javascript BDD project using [Jasmine][1] 
 
 ### How to run this:
 1. Download source code or clone the repository
